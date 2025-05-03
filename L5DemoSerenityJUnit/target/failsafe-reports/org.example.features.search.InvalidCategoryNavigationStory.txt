@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.InvalidCategoryNavigationStory
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.611 s - in org.example.features.search.InvalidCategoryNavigationStory

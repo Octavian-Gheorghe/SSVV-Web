@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.InvalidCategoryNavigationStory" skipped="0" tests="2" time="7.08" timestamp="2025-05-03 02:22:04"><testcase classname="org.example.features.search.InvalidCategoryNavigationStory" name="User should be able to navigate to given category invalid"/></testsuite>
